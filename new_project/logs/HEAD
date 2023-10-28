@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 aad9295214c4e175092e0f08a0edbd27772b8126 root <root@test.lan> 1698425616 +0300	clone: from github.com:kravchuchka/m2-test-repo.git
+aad9295214c4e175092e0f08a0edbd27772b8126 aad9295214c4e175092e0f08a0edbd27772b8126 root <root@test.lan> 1698425674 +0300	checkout: moving from main to viacheslav_test
+aad9295214c4e175092e0f08a0edbd27772b8126 1aabd1f5ddf9a40f7b2ec94290d7ba909a1e762b root <root@test.lan> 1698425721 +0300	commit: test commit
+1aabd1f5ddf9a40f7b2ec94290d7ba909a1e762b 1aabd1f5ddf9a40f7b2ec94290d7ba909a1e762b root <root@test.lan> 1698485495 +0300	checkout: moving from viacheslav_test to viacheslav_test
+1aabd1f5ddf9a40f7b2ec94290d7ba909a1e762b 582552d2b30dcb5daa6270b380b411604e22af58 root <root@test.lan> 1698485530 +0300	commit: ver_0.1.2
